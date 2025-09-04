@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sishir Adhikari | CS + Stats | University of Chicago '29
+Sishir Adhikari | CS + Stats | University of Chicago '29  
 sadhikari66@uchicago.edu
 
 I'm Sishir Adhikari and an aspiring Computer Science and Statistics double major. Aside from my academic and professional interests, I enjoy weight lifting, playing clash royale, cooking, and listening to podcasts.
